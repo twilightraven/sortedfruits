@@ -1,0 +1,15 @@
+Conceptual model using pseudo code
+
+Start 
+Open file unsorted_fruits.txt in read mode and sorted_fruits.txt in write mode
+If input file is opened successfully, start reading list file 
+Read line from file
+Add fruit name to list
+Sort the list using “sort()”
+Perform sorting of data to output file
+Read each element from the list
+Write sorted value to the output file
+Generate sorted list 
+End
+
+
